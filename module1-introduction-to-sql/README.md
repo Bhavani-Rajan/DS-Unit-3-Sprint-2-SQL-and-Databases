@@ -53,7 +53,7 @@ following questions:
 
 - How many total Characters are there?
 - How many of each specific subclass?
-- How many total Items?
+- How many total Items?x
 - How many of the Items are weapons? How many are not?
 - How many Items does each character have? (Return first 20 rows)
 - How many Weapons does each character have? (Return first 20 rows)
